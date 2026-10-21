@@ -8,7 +8,10 @@
 
 ## Goals
 - **good result:** A complete analysis paired with data visualizations.
-- **what each person wants:** Ciara: I want our midterm to showcase well-done analysis that I am proud to present, completed in a timely manner./nKiersten: I want to create a good midterm project that demonstrates understanding with a communicative and on-time group./nCamden:I want to improve my ability to improvise and make decisions about data without explicit instructions./nOlympia:I would like to learn more about how to use outside data in my coding and how to communicate as a group when using a shared notebook. 
+- **what each person wants:** Ciara: I want our midterm to showcase well-done analysis that I am proud to present, completed in a timely manner.
+Kiersten: I want to create a good midterm project that demonstrates understanding with a communicative and on-time group.
+Camden:I want to improve my ability to improvise and make decisions about data without explicit instructions.
+Olympia:I would like to learn more about how to use outside data in my coding and how to communicate as a group when using a shared notebook. 
 - **time limits:** Each group member is a full time student and is involved in other CIOs, internships, and research groups. We have a set meeting time M/W/F, but are reliant on each other to complete their tasking by pre-set deadlines.
 - **what to avoid:** We want to avoid poor communication, both through member to member discussion and data wrangling (i.e. unexplained code)
 
